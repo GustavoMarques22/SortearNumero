@@ -31,7 +31,7 @@ A interface conta com:
 
 ## ✨ Demonstração
 
-![Imagem do jogo Número Secreto](.\sorteador-numeros\img\SortearNumero)
+![Imagem do jogo Número Secreto](.sorteador-numeros/img/SortearNumero.png)
 
 ## ▶️ Como Executar
 
