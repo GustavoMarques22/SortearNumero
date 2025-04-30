@@ -29,6 +29,10 @@ A interface conta com:
 
 > O design é responsivo e exibe uma imagem de astronauta em telas grandes.
 
+## ✨ Demonstração
+
+![Imagem do jogo Número Secreto](.\sorteador-numeros\img\SortearNumero)
+
 ## ▶️ Como Executar
 
 1. Clone o repositório:
